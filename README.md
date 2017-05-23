@@ -18,16 +18,16 @@ Master `Webpack 2` as you deploy web apps supported by Babel, code splitting, an
 Section: 1
 0 / 2
 How to Use This Course
-[ ] 1. Start Here! 1:31
-[ ] 2. Links to Github Repos 0:00
+[x] 1. Start Here! 1:31
+[x] 2. Links to Github Repos 0:00
 
 Section: 2
 0 / 12
 What Does Webpack Do?
-[ ] 3. Why Do We Use Build Tools? 6:38
-[ ] 4. Javascript Modules 4:24
-[ ] 5. The Purpose of Webpack 4:47
-[ ] Quiz 1: Test Your Understanding 0:00
+[x] 3. Why Do We Use Build Tools? 6:38
+[x] 4. Javascript Modules 4:24
+[x] 5. The Purpose of Webpack 4:47
+[x] Quiz 1: Test Your Understanding 0:00
 [ ] 6. Webpack in Action 4:54
 [ ] 7. Javascript Module Syntax 7:30
 [ ] 8. Linking Files with CommonJS 5:16
